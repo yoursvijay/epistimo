@@ -1,0 +1,377 @@
+@media only screen and (max-width: 1024px) {
+    p.float-left.history-text1{
+        padding-top: 50px;
+    }
+    p.float-right.history-text2{
+        position: absolute;
+        top: 200%;
+    }
+    .history-detials{
+        position: relative;
+        height: 805px;
+    }
+    .history-image {
+       position: absolute;
+       top: 50px;
+    }
+    .academics, .navitem2 {
+        padding: 0px 3px;
+    }
+    .lightbox {
+      left: 23%;
+    }
+    .management-details1 {
+       margin-top: -14%;
+    }
+    .management-text1 {
+        text-align: justify;
+        font-size: 14px;
+        font-family: 'Open_Sans_light';
+        padding: 0 60px;
+        padding-top: 36px;
+        padding-bottom: 74px;
+    }
+    .management-details {
+       margin-top: -8%;
+    }
+    .enquiry_button {
+        padding: 25px;
+    }
+
+}
+@media only screen and (max-width: 767px) {
+    .header{
+        display: none;
+    }
+    #header1{
+        display: block;
+    }
+    #header{
+        max-height: 100vh;
+        overflow-x: auto;
+    }
+    .awards_middle{
+        right: 0;
+    }
+    .awards_last{
+        left: 0;
+    }
+    .award2_2{
+        display: block;
+    }
+    .awards_middle{
+        display: flex;
+        flex-direction: column-reverse;
+    }
+    .award2{
+        display: none;
+    }
+    .award_block img{
+        min-width: 100%!important;
+    }
+}
+@media only screen and (max-width: 768px) {
+    html,body{
+        overflow-x: hidden;
+    }
+    .banner1_img{
+        display: block;
+    }
+    .footer ul li a{
+        padding: 6px;
+    }
+    .logo{   
+      left: 33%;
+    }
+    .isa_dropdown{
+        position: relative!important;
+        left:10%!important;
+        top: 0!important;
+    }
+    .dropdown-divider{
+        display: none;
+    }
+    .feedback .row{
+        margin: 20px 0;
+    }
+    .academics,.navitem2 {
+        padding: 0;
+    }
+    .enquiry {
+        margin-bottom: 1rem;
+    }
+    #students{
+        padding: 10px;
+    }
+    .header a{
+        margin: 10px;
+    }
+    .methods_imgs {
+        position: relative;
+        bottom: 0;
+        left: 0%;
+    }
+    #methods .row p{
+        padding-right: 0%;
+    }
+    .lightbox {
+      left: 15%!important;
+    }
+    .management-text {
+       text-align: justify;
+       font-size: 14px;
+       font-family: 'Open_Sans_light';
+       color: #373636;
+       padding: 0px;
+       padding-top: 36px;
+       padding-bottom: 74px;
+    }
+    .management-details1,.management-details {
+       margin-top: -10%;
+    }
+
+    p.float-left.history-text1{
+        padding-top: 20px;
+        padding-bottom: 20px;
+        line-height: 21px;
+    }
+    p.float-right.history-text2{
+        position: absolute;
+        top: 200%;
+        padding-top: 20px;
+        padding-bottom: 20px;
+        margin-top: 59%;
+    }
+    .history-detials{
+        position: relative;
+        height: 776px;
+    }
+    .history-image {
+       position: absolute;
+       top: 22%;
+       background: #f4f4f4;
+       margin-left: -3%;
+    }
+    .container1 {
+       max-width: 100%!important;
+       background: #fff!important;
+    }
+    .history-detials{
+        background: none;
+    }
+    .enquiry_banner-mt {
+       margin-top: 6%;
+    }
+}
+@media only screen and (max-width: 648px) {
+    .enquiry_right {
+        padding-top: 60px;
+    }
+    .footer .text-left{
+        text-align: center;
+        padding-top: 50px;
+    }
+    .enquiry_banner{
+        text-align: center;
+    }
+    .principal_section p {
+        padding: 0 15px!important;
+    }
+    .social_icons{
+        margin-top: 50px;
+    }
+    
+}
+@media only screen and (min-width: 648px) and (max-width: 767px) {
+    .lightbox {
+        left: 9%!important;
+    }
+    .lightbox {
+        top: 11%;
+    }
+    .lightbox {
+        top: 28%;
+    }
+    .social_icons{
+        margin-top: 50px;
+    }
+}
+@media only screen and (min-width: 648px) {
+    
+    .enquiry_right {
+        padding-top: 60px;
+    }
+    .enquiry_banner{
+        text-align: center;
+    }
+}
+@media only screen and (max-height: 100vh) {
+    .lightbox {
+      right: 30%;
+      top: 10%;
+    }
+}
+@media only screen and (max-width: 425px) {
+    h1{
+        font-size: 2rem;
+    }
+    .highlights_tabs{
+        margin: 0%;
+    }
+    .highlights_tabs .nav-link {
+        padding: 0.5rem 0.3rem;
+    }
+    #carouselExampleIndicators .carousel-indicators{
+        display: none;
+    }
+    .welcome_carousel {
+        padding-right: 0!important;
+        padding-left: 0!important;
+    }
+    .highlights{
+        width: 95%!important;
+        margin-top: -415px;
+    }
+    .footer{
+        width: 95%!important;
+    }
+    .footer ul li a{
+        padding: 10px;
+    }
+    .principal_section p{
+         text-align: justify!important;
+    }
+    .logo{   
+      left: 21%;
+    }
+    .teaching_methods_right{
+        padding-top: 50px;
+    }
+    .vission_banner h2,.principal_banner h1,.history-heading,.management-heading,.awards_banner h1{
+        font-size: 2rem;
+    }
+    .lightbox {
+      left: 3%!important;
+    }
+    #youtube{
+        width: 400px!important;
+    }
+    .management-details1, .management-details {
+        margin-top: -17%;
+    }
+    .management-text {
+        text-align: justify;
+        font-size: 12px;
+    }
+
+    p.float-left.history-text1{
+        font-size:12px;
+    }
+    p.float-right.history-text2{
+        font-size:12px;
+    }
+    .history-image {
+       position: absolute;
+        top: 36%;
+       left: 1%;
+    }
+    .history-detials {
+       position: relative;
+       height: 700px;
+    }
+    .enquiry_banner-mt {
+       margin-top: 10%;
+    }
+    p.management-text1 {
+       padding: 36px 0;
+    }
+    .mt-71{
+        margin-top: 71px;
+    }
+    nav .nav-link::after{
+        display: none;
+    }
+/*
+    .awards_section .award_right {
+        width: 84%;
+        height: auto;
+        max-height: inherit;
+        padding: 6%;
+        margin-left: 32px;
+    }
+    .awards_section .awards_img_right{
+        max-width: 100%;
+    }
+*/
+    .awards_section .award_right {
+        width: 100%;
+        height: auto;
+        max-height: inherit;
+    }
+    .awards_section .awards_img_right{
+        max-width: 100%;
+    }
+
+}
+@media only screen and (max-width: 412px) {
+    .logo{   
+      left: 23%;
+    }
+}
+@media only screen and (max-width: 375px) {
+    .history-image {
+       position: absolute;
+       top: 41%;
+    }
+    #youtube{
+        width: 355px!important;
+    }
+    .management-details1, .management-details {
+       margin-top: -19%;
+    }
+    .enquiry_banner-mt {
+       margin-top: 24%;
+    }
+    p.float-right.history-text2{
+        margin-top: 67%;
+    }
+/*
+    .awards_section .award_right {
+        width: 96%;
+        margin-left: 6px;
+    }
+*/
+
+}
+@media only screen and (max-width: 320px) {
+    p.float-left.history-text1{
+        font-size:12px;
+    }
+    p.float-right.history-text2{
+        font-size:12px;
+    }
+    .history-image {
+       position: absolute;
+       top: 41%;
+    }
+    .history-detials {
+       position: relative;
+       height: 790px;
+    }
+    p.float-right.history-text2{
+        margin-top:65%;
+    }
+    #youtube{
+        width: 300px!important;
+    }
+    .logo{   
+      left: 18%;
+    }
+    .management-details1, .management-details {
+       margin-top: -23%;
+    }
+    .enquiry_banner-mt {
+       margin-top: 22px;
+    }
+}
+
